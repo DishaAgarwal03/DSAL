@@ -1,3 +1,4 @@
+//multiply function probably not correct 
 #include<stdio.h>
 #include<stdlib.h>
 
